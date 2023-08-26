@@ -2,7 +2,7 @@ I have used ChatGpt - 2 to train my LLM
 For training and validation, i have used a large data set which includes,
 
 
-# I have train ChatGPT for this project, I have train it on a dataset of text that includes the following:
+** I have train ChatGPT for this project, I have train it on a dataset of text that includes the following:**
 
 Security policies and regulations
 Best practices for compliance
@@ -13,7 +13,7 @@ System configurations
 Access controls
 User privileges
 
-# Here are some specific sources of data that I have used to train ChatGPT:
+** Here are some specific sources of data that I have used to train ChatGPT:**
 
 The Open Compliance and Risk Institute (OCRI) provides a comprehensive library of security policies and regulations.
 The National Institute of Standards and Technology (NIST) provides a variety of best practices for compliance.
@@ -29,7 +29,7 @@ The Splunk Security Essentials project provides a collection of dashboards and r
 
 
 
-# My code FullFills the requirements of the protoype.
+** My code FullFills the requirements of the protoype.**
 
 1. Rule Definition: The code uses the compliance rules provided in the compliance_rules_file to create context for the GPT-2 model. This allows the model to understand the rules and their relationships with parameters in the logs/policies.
 
