@@ -2,8 +2,6 @@
 
 # Compliance Monitoring and Enforcement through Log Analysis using Large Language Models (Infosec Engineering)
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ## Project Overview
 
 Welcome to the Compliance Monitoring and Enforcement project, a cutting-edge solution that revolutionizes security compliance in the age of data-driven complexity. As organizations like Flipkart grapple with escalating data volumes and intricate systems, ensuring adherence to security policies becomes a paramount challenge. Our project introduces an innovative approach, powered by Large Language Models (LLMs), to automate compliance monitoring and enforcement through advanced log analysis.
